@@ -9,7 +9,7 @@
     "prop-types": "^15.7.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.5",
+    "react-scripts": "5.0.1",
     "skeleton-css": "^2.0.4"
   },
   "scripts": {
